@@ -1,7 +1,7 @@
 import torch
 from transformers import AutoTokenizer, AutoModelForSequenceClassification
 
-MODEL_PATH = "models/distilbert_intent_v5"
+MODEL_PATH = "ajain2103/resolveai-distilbert-v5"
 
 tokenizer = AutoTokenizer.from_pretrained(MODEL_PATH)
 
