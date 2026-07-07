@@ -1,0 +1,28 @@
+ticket,expected
+I ordered the wrong product by mistake and need to stop the order,cancel_order
+Can I replace one item in my order with another one?,change_order
+"My order is going to my old home, please send it to my new address",change_shipping_address
+Will I have to pay anything if I cancel my order?,check_cancellation_fee
+Where can I see the billing details for my purchase?,check_invoice
+Do you accept UPI or debit cards?,check_payment_methods
+How many days do I have to ask for my money back?,check_refund_policy
+The service I received was terrible and I want to report it,complaint
+How can I get in touch with customer support?,contact_customer_service
+"I do not want to talk to a bot, connect me with a real person",contact_human_agent
+I am a new customer and want to open an account,create_account
+I no longer use this service and want my account permanently removed,delete_account
+Can my order be delivered to a pickup point?,delivery_options
+How long will my package take to reach me?,delivery_period
+I need to update the phone number linked to my profile,edit_account
+Please send me the invoice for the order I placed last month,get_invoice
+The product was returned and I want my money back,get_refund
+I want to receive your company updates by email,newsletter_subscription
+My card keeps getting declined when I try to complete the purchase,payment_issue
+"I have selected the products, how do I complete the purchase?",place_order
+I forgot my password and cannot log in,recover_password
+The website gives me an error every time I try to sign up,registration_problems
+I had a great experience and want to leave feedback,review
+I have never added a delivery address to my account,set_up_shipping_address
+I need to log in using a different account,switch_account
+My package was shipped but I have no idea where it is now,track_order
+My refund was approved days ago but the money still has not arrived,track_refund

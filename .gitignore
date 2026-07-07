@@ -1,0 +1,12 @@
+venv/
+__pycache__/
+*.pyc
+
+.ipynb_checkpoints/
+
+.env
+
+models/distilbert_intent_v5/model.safetensors
+
+.DS_Store
+Thumbs.db
